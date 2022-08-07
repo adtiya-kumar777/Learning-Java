@@ -12,6 +12,6 @@ public class varArgs_InJava {
         System.out.println("WELCOME to the  varArgs Tutorial");
         System.out.println("sum of 5 & 19 is : " +  sum(5,19));
         System.out.println("sum of 4 , 12 & 19 is : " +  sum(4,12,19));
-        System.out.println("sum of 5,75,1,3 & 19 is : " +  sum(5,75,1,3,19));
+        System.out.println("sum of 5 & 122 : " +  sum(5,122));
     }
 }
