@@ -1,6 +1,6 @@
 package com.company;
 
-public class varArgs_InJava {
+public class varArgs {
     static int sum(int ...arr){
         int result =0;
         for(int a: arr) {
